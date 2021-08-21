@@ -12,6 +12,10 @@ METERS_PER_INCH=0.0254
 **BMI Status**
 
 Less than 18.5 => Underweight
+
 Between 18.5 to 24.9 => Normal
+
 Between 25 to 29.9 => Overweight
+
 30 or more than 30 => Obese
+
